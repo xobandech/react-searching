@@ -1,4 +1,5 @@
 import { Product } from "../App";
+
 type ProductRowProps = {
   product: Product;
 };
